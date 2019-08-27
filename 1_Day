@@ -1,1 +1,24 @@
 
+如何安装Linux系统？
+  Windows10+Linux双系统安装：
+    1.关闭Windows快速启动
+      我的Dell：关机按F2→boot→修改source boot 的 enable→disable,保存后Esc退出
+    2.安装
+     （U盘插入）关机→按F12→安装ubantu→语言选择→（无需联网）直接继续安装ubantu
+
+Linux系统简单知识：
+   1.不同于windows，需使用终端查找下载运行（输入命令），并不独立划分目录，所有文件所属一个“/”（根目录）下
+   2.开启终端的方式①.右键选择②.ctrl+Alt+T
+   3.独特命名文件可用Tab键补全
+   4.下载app需在终端逐步输入（百度）
+
+Linux常用命令：
+ 1. ls：list-显示文件目录
+        ls-a显示所有文件（包含隐藏）
+ 2. cd：change directory-切换所在目录
+        cd-进入上次目录
+        cd..进入上级目录
+ 3.关机：终端输入shutdown等待
+
+创建github账户记录学习
+再次进行双系统选择时，仅在ubantu和Windows两项之间选择.
